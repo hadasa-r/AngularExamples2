@@ -1,0 +1,9 @@
+C:\Users\kl878\source\repos\WebApplication3\MyDal\bin\Debug\MyDal.dll
+C:\Users\kl878\source\repos\WebApplication3\MyDal\bin\Debug\MyDal.pdb
+C:\Users\kl878\source\repos\WebApplication3\MyDal\obj\Debug\MyDal.csprojAssemblyReference.cache
+C:\Users\kl878\source\repos\WebApplication3\MyDal\obj\Debug\MyDal.csproj.CoreCompileInputs.cache
+C:\Users\kl878\source\repos\WebApplication3\MyDal\obj\Debug\MyDal.dll
+C:\Users\kl878\source\repos\WebApplication3\MyDal\obj\Debug\MyDal.pdb
+C:\Users\kl878\source\repos\WebApplication3\MyDal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kl878\source\repos\WebApplication3\MyDal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kl878\source\repos\WebApplication3\MyDal\obj\Debug\MyDal.csproj.CopyComplete
